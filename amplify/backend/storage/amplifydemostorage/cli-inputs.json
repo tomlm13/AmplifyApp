@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifydemostorage",
+  "policyUUID": "45b2d49e",
+  "bucketName": "images",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
